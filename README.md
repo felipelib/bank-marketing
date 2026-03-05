@@ -1,12 +1,16 @@
 # bank-marketing
 📌 Descrição do Projeto
+
 Um banco português realizou campanhas de marketing direto (via chamadas telefônicas) para vender depósitos a prazo. Ligar indiscriminadamente para qualquer pessoa representa um alto custo operacional com baixo retorno, um verdadeiro "tiro no escuro".
+
 O objetivo deste projeto é identificar o perfil dos clientes com maior probabilidade de adquirir o produto, permitindo que o banco crie campanhas mais direcionadas, reduza custos e aumente a taxa de conversão.
+
 O projeto está dividido em duas partes:
 - Análise Exploratória de Dados (EDA)
 - Modelo de Classificação
 
 🗃️ Sobre os Dados
+
 Dataset obtido no repositório da UCI Machine Learning Repository, contendo 45.211 registros e 17 colunas sobre campanhas de telemarketing de um banco português. Variáveis presentes no dataset:
 
 Informações sobre o possível cliente:
@@ -53,7 +57,9 @@ Target:
 - y: O cliente subscreveu/assinou um depósito a prazo?
 
 📈 Parte 1 — Análise Exploratória de Dados (EDA)
+
 Principais Descobertas
+
 Perfil dos clientes mais contatados pelo banco (baixa conversão):
 
 Idade entre 30 e 50 anos
