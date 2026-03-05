@@ -9,6 +9,7 @@ O projeto está dividido em duas partes:
 - Análise Exploratória de Dados (EDA)
 - Modelo de Classificação
 
+
 🗃️ Sobre os Dados
 
 Dataset obtido no repositório da UCI Machine Learning Repository, contendo 45.211 registros e 17 colunas sobre campanhas de telemarketing de um banco português. Variáveis presentes no dataset:
@@ -55,6 +56,7 @@ Informações sobre o contato de campanhas anteriores:
 Target:
 
 - y: O cliente subscreveu/assinou um depósito a prazo?
+
 
 📈 Parte 1 — Análise Exploratória de Dados (EDA)
 
